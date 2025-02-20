@@ -1,6 +1,6 @@
 # ShellPhish v1.0
 # ShellPhish v1.1
-## Author: github.com/panger_lkr
+## Author: github.com/pangerlkr
 ## IG: instagram.com/panger__lkr
 ## FB: facebook.com/lkr.panger
 ### Don't copy this code without giving me the credits, nerd!
